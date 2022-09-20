@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\bin\Debug\netcoreapp3.1\P12. Even Number.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\bin\Debug\netcoreapp3.1\P12. Even Number.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\bin\Debug\netcoreapp3.1\P12. Even Number.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\bin\Debug\netcoreapp3.1\P12. Even Number.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\bin\Debug\netcoreapp3.1\P12. Even Number.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\bin\Debug\netcoreapp3.1\P12. Even Number.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P12. Even Number\obj\Debug\netcoreapp3.1\P12. Even Number.genruntimeconfig.cache

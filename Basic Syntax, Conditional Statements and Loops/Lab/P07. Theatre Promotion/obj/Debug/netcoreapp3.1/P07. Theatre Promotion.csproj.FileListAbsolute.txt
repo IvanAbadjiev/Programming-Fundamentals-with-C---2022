@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\bin\Debug\netcoreapp3.1\P07. Theatre Promotion.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\bin\Debug\netcoreapp3.1\P07. Theatre Promotion.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\bin\Debug\netcoreapp3.1\P07. Theatre Promotion.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\bin\Debug\netcoreapp3.1\P07. Theatre Promotion.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\bin\Debug\netcoreapp3.1\P07. Theatre Promotion.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\bin\Debug\netcoreapp3.1\P07. Theatre Promotion.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Lab\P07. Theatre Promotion\obj\Debug\netcoreapp3.1\P07. Theatre Promotion.genruntimeconfig.cache
