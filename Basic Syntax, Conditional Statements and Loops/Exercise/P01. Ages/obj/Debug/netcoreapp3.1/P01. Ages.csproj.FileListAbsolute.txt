@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\bin\Debug\netcoreapp3.1\P01. Ages.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\bin\Debug\netcoreapp3.1\P01. Ages.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\bin\Debug\netcoreapp3.1\P01. Ages.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\bin\Debug\netcoreapp3.1\P01. Ages.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\bin\Debug\netcoreapp3.1\P01. Ages.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\bin\Debug\netcoreapp3.1\P01. Ages.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P01. Ages\obj\Debug\netcoreapp3.1\P01. Ages.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\bin\Debug\netcoreapp3.1\P06. Strong number.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\bin\Debug\netcoreapp3.1\P06. Strong number.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\bin\Debug\netcoreapp3.1\P06. Strong number.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\bin\Debug\netcoreapp3.1\P06. Strong number.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\bin\Debug\netcoreapp3.1\P06. Strong number.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\bin\Debug\netcoreapp3.1\P06. Strong number.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P06. Strong number\obj\Debug\netcoreapp3.1\P06. Strong number.genruntimeconfig.cache

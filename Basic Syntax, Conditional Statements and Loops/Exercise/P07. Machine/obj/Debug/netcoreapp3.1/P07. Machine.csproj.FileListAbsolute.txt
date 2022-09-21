@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\bin\Debug\netcoreapp3.1\P07. Machine.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\bin\Debug\netcoreapp3.1\P07. Machine.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\bin\Debug\netcoreapp3.1\P07. Machine.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\bin\Debug\netcoreapp3.1\P07. Machine.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\bin\Debug\netcoreapp3.1\P07. Machine.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\bin\Debug\netcoreapp3.1\P07. Machine.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P07. Machine\obj\Debug\netcoreapp3.1\P07. Machine.genruntimeconfig.cache

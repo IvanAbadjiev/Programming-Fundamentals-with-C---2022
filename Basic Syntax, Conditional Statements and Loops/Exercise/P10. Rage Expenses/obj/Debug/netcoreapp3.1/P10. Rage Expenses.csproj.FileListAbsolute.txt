@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\bin\Debug\netcoreapp3.1\P10. Rage Expenses.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\bin\Debug\netcoreapp3.1\P10. Rage Expenses.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\bin\Debug\netcoreapp3.1\P10. Rage Expenses.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\bin\Debug\netcoreapp3.1\P10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\bin\Debug\netcoreapp3.1\P10. Rage Expenses.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\bin\Debug\netcoreapp3.1\P10. Rage Expenses.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P10. Rage Expenses\obj\Debug\netcoreapp3.1\P10. Rage Expenses.genruntimeconfig.cache

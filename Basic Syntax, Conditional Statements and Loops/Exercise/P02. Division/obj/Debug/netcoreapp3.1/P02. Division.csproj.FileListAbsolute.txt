@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\bin\Debug\netcoreapp3.1\P02. Division.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\bin\Debug\netcoreapp3.1\P02. Division.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\bin\Debug\netcoreapp3.1\P02. Division.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\bin\Debug\netcoreapp3.1\P02. Division.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\bin\Debug\netcoreapp3.1\P02. Division.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\bin\Debug\netcoreapp3.1\P02. Division.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax, Conditional Statements and Loops\Exercise\P02. Division\obj\Debug\netcoreapp3.1\P02. Division.genruntimeconfig.cache
