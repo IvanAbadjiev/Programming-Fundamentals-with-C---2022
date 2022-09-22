@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\bin\Debug\netcoreapp3.1\P02 Exchange.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\bin\Debug\netcoreapp3.1\P02 Exchange.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\bin\Debug\netcoreapp3.1\P02 Exchange.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\bin\Debug\netcoreapp3.1\P02 Exchange.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\bin\Debug\netcoreapp3.1\P02 Exchange.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\bin\Debug\netcoreapp3.1\P02 Exchange.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P02 Exchange\obj\Debug\netcoreapp3.1\P02 Exchange.genruntimeconfig.cache
