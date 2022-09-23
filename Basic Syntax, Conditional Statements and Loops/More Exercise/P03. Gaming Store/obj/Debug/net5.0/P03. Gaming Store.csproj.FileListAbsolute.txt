@@ -1,0 +1,16 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\bin\Debug\net5.0\P03. Gaming Store.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\bin\Debug\net5.0\P03. Gaming Store.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\bin\Debug\net5.0\P03. Gaming Store.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\bin\Debug\net5.0\P03. Gaming Store.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\bin\Debug\net5.0\P03. Gaming Store.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\bin\Debug\net5.0\P03. Gaming Store.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\refint\P03. Gaming Store.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\P03. Gaming Store.genruntimeconfig.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\More Exercise\P03. Gaming Store\obj\Debug\net5.0\ref\P03. Gaming Store.dll
