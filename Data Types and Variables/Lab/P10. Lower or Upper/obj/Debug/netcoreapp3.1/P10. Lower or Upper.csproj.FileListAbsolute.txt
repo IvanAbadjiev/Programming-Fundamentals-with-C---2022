@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\bin\Debug\netcoreapp3.1\P10. Lower or Upper.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\bin\Debug\netcoreapp3.1\P10. Lower or Upper.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\bin\Debug\netcoreapp3.1\P10. Lower or Upper.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\bin\Debug\netcoreapp3.1\P10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\bin\Debug\netcoreapp3.1\P10. Lower or Upper.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\bin\Debug\netcoreapp3.1\P10. Lower or Upper.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P10. Lower or Upper\obj\Debug\netcoreapp3.1\P10. Lower or Upper.genruntimeconfig.cache

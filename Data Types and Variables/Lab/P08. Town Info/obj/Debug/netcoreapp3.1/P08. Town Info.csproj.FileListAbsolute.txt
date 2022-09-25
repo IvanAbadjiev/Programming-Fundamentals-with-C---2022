@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\bin\Debug\netcoreapp3.1\P08. Town Info.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\bin\Debug\netcoreapp3.1\P08. Town Info.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\bin\Debug\netcoreapp3.1\P08. Town Info.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\bin\Debug\netcoreapp3.1\P08. Town Info.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\bin\Debug\netcoreapp3.1\P08. Town Info.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\bin\Debug\netcoreapp3.1\P08. Town Info.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Lab\P08. Town Info\obj\Debug\netcoreapp3.1\P08. Town Info.genruntimeconfig.cache
