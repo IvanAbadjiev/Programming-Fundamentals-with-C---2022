@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\bin\Debug\netcoreapp3.1\P03. Elevator.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\bin\Debug\netcoreapp3.1\P03. Elevator.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\bin\Debug\netcoreapp3.1\P03. Elevator.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\bin\Debug\netcoreapp3.1\P03. Elevator.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\bin\Debug\netcoreapp3.1\P03. Elevator.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\bin\Debug\netcoreapp3.1\P03. Elevator.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P03. Elevator\obj\Debug\netcoreapp3.1\P03. Elevator.genruntimeconfig.cache

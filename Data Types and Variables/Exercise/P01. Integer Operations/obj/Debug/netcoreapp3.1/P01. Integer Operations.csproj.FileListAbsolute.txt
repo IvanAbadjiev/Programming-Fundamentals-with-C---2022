@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\bin\Debug\netcoreapp3.1\P01. Integer Operations.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\bin\Debug\netcoreapp3.1\P01. Integer Operations.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\bin\Debug\netcoreapp3.1\P01. Integer Operations.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\bin\Debug\netcoreapp3.1\P01. Integer Operations.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\bin\Debug\netcoreapp3.1\P01. Integer Operations.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\bin\Debug\netcoreapp3.1\P01. Integer Operations.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P01. Integer Operations\obj\Debug\netcoreapp3.1\P01. Integer Operations.genruntimeconfig.cache

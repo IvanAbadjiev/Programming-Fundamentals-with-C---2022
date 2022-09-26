@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\P05. Print Part Of ASCII Table.genruntimeconfig.cache
