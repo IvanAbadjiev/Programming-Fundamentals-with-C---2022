@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\bin\Debug\netcoreapp3.1\P08. Beer Kegs.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\bin\Debug\netcoreapp3.1\P08. Beer Kegs.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\bin\Debug\netcoreapp3.1\P08. Beer Kegs.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\bin\Debug\netcoreapp3.1\P08. Beer Kegs.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\bin\Debug\netcoreapp3.1\P08. Beer Kegs.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\bin\Debug\netcoreapp3.1\P08. Beer Kegs.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P08. Beer Kegs\obj\Debug\netcoreapp3.1\P08. Beer Kegs.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\bin\Debug\netcoreapp3.1\P07. Water Overflow.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\bin\Debug\netcoreapp3.1\P07. Water Overflow.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\bin\Debug\netcoreapp3.1\P07. Water Overflow.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\bin\Debug\netcoreapp3.1\P07. Water Overflow.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\bin\Debug\netcoreapp3.1\P07. Water Overflow.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\bin\Debug\netcoreapp3.1\P07. Water Overflow.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Data Types and Variables\Exercise\P07. Water Overflow\obj\Debug\netcoreapp3.1\P07. Water Overflow.genruntimeconfig.cache
