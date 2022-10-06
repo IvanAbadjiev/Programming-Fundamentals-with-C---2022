@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\P04. Reverse Array of Strings.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Lab\P04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\P04. Reverse Array of Strings.genruntimeconfig.cache
