@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\bin\Debug\netcoreapp3.1\P06. Equal Sum.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\bin\Debug\netcoreapp3.1\P06. Equal Sum.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\bin\Debug\netcoreapp3.1\P06. Equal Sum.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\bin\Debug\netcoreapp3.1\P06. Equal Sum.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\bin\Debug\netcoreapp3.1\P06. Equal Sum.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\bin\Debug\netcoreapp3.1\P06. Equal Sum.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P06. Equal Sum\obj\Debug\netcoreapp3.1\P06. Equal Sum.genruntimeconfig.cache
