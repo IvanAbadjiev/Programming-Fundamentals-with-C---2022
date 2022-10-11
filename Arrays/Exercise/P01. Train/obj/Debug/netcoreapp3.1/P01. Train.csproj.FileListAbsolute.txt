@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\bin\Debug\netcoreapp3.1\P01. Train.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\bin\Debug\netcoreapp3.1\P01. Train.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\bin\Debug\netcoreapp3.1\P01. Train.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\bin\Debug\netcoreapp3.1\P01. Train.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\bin\Debug\netcoreapp3.1\P01. Train.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\bin\Debug\netcoreapp3.1\P01. Train.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P01. Train\obj\Debug\netcoreapp3.1\P01. Train.genruntimeconfig.cache

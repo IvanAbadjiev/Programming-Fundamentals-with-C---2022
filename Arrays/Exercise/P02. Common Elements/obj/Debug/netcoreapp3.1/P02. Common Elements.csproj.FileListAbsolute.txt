@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\bin\Debug\netcoreapp3.1\P02. Common Elements.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\bin\Debug\netcoreapp3.1\P02. Common Elements.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\bin\Debug\netcoreapp3.1\P02. Common Elements.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\bin\Debug\netcoreapp3.1\P02. Common Elements.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\bin\Debug\netcoreapp3.1\P02. Common Elements.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\bin\Debug\netcoreapp3.1\P02. Common Elements.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P02. Common Elements\obj\Debug\netcoreapp3.1\P02. Common Elements.genruntimeconfig.cache
