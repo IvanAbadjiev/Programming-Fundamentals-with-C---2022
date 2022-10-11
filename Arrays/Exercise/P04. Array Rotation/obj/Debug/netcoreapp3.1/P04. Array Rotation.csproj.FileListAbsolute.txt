@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\bin\Debug\netcoreapp3.1\P04. Array Rotation.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\bin\Debug\netcoreapp3.1\P04. Array Rotation.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\bin\Debug\netcoreapp3.1\P04. Array Rotation.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\bin\Debug\netcoreapp3.1\P04. Array Rotation.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\bin\Debug\netcoreapp3.1\P04. Array Rotation.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\bin\Debug\netcoreapp3.1\P04. Array Rotation.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Arrays\Exercise\P04. Array Rotation\obj\Debug\netcoreapp3.1\P04. Array Rotation.genruntimeconfig.cache
