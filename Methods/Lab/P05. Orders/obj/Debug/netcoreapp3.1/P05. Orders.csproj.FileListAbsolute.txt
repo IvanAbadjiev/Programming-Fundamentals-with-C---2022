@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\bin\Debug\netcoreapp3.1\P05. Orders.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\bin\Debug\netcoreapp3.1\P05. Orders.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\bin\Debug\netcoreapp3.1\P05. Orders.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\bin\Debug\netcoreapp3.1\P05. Orders.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\bin\Debug\netcoreapp3.1\P05. Orders.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\bin\Debug\netcoreapp3.1\P05. Orders.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P05. Orders\obj\Debug\netcoreapp3.1\P05. Orders.genruntimeconfig.cache
