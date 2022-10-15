@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\bin\Debug\netcoreapp3.1\P03. Calculations.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\bin\Debug\netcoreapp3.1\P03. Calculations.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\bin\Debug\netcoreapp3.1\P03. Calculations.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\bin\Debug\netcoreapp3.1\P03. Calculations.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\bin\Debug\netcoreapp3.1\P03. Calculations.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\bin\Debug\netcoreapp3.1\P03. Calculations.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P03. Calculations\obj\Debug\netcoreapp3.1\P03. Calculations.genruntimeconfig.cache
