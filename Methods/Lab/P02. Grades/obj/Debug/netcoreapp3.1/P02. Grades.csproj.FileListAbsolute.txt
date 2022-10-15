@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\bin\Debug\netcoreapp3.1\P02. Grades.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\bin\Debug\netcoreapp3.1\P02. Grades.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\bin\Debug\netcoreapp3.1\P02. Grades.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\bin\Debug\netcoreapp3.1\P02. Grades.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\bin\Debug\netcoreapp3.1\P02. Grades.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\bin\Debug\netcoreapp3.1\P02. Grades.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P02. Grades\obj\Debug\netcoreapp3.1\P02. Grades.genruntimeconfig.cache
