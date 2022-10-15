@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\bin\Debug\netcoreapp3.1\P08. Math Power.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\bin\Debug\netcoreapp3.1\P08. Math Power.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\bin\Debug\netcoreapp3.1\P08. Math Power.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\bin\Debug\netcoreapp3.1\P08. Math Power.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\bin\Debug\netcoreapp3.1\P08. Math Power.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\bin\Debug\netcoreapp3.1\P08. Math Power.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P08. Math Power\obj\Debug\netcoreapp3.1\P08. Math Power.genruntimeconfig.cache

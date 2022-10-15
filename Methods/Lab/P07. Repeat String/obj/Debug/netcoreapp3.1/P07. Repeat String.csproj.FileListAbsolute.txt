@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\bin\Debug\netcoreapp3.1\P07. Repeat String.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\bin\Debug\netcoreapp3.1\P07. Repeat String.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\bin\Debug\netcoreapp3.1\P07. Repeat String.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\bin\Debug\netcoreapp3.1\P07. Repeat String.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\bin\Debug\netcoreapp3.1\P07. Repeat String.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\bin\Debug\netcoreapp3.1\P07. Repeat String.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Lab\P07. Repeat String\obj\Debug\netcoreapp3.1\P07. Repeat String.genruntimeconfig.cache
