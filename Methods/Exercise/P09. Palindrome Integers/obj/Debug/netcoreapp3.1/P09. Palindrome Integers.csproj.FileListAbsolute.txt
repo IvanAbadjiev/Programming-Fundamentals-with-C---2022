@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\bin\Debug\netcoreapp3.1\P09. Palindrome Integers.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\bin\Debug\netcoreapp3.1\P09. Palindrome Integers.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\bin\Debug\netcoreapp3.1\P09. Palindrome Integers.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\bin\Debug\netcoreapp3.1\P09. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\bin\Debug\netcoreapp3.1\P09. Palindrome Integers.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\bin\Debug\netcoreapp3.1\P09. Palindrome Integers.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P09. Palindrome Integers\obj\Debug\netcoreapp3.1\P09. Palindrome Integers.genruntimeconfig.cache
