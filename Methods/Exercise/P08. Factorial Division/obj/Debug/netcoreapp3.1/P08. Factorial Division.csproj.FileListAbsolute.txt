@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\bin\Debug\netcoreapp3.1\P08. Factorial Division.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\bin\Debug\netcoreapp3.1\P08. Factorial Division.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\bin\Debug\netcoreapp3.1\P08. Factorial Division.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\bin\Debug\netcoreapp3.1\P08. Factorial Division.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\bin\Debug\netcoreapp3.1\P08. Factorial Division.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\bin\Debug\netcoreapp3.1\P08. Factorial Division.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P08. Factorial Division\obj\Debug\netcoreapp3.1\P08. Factorial Division.genruntimeconfig.cache

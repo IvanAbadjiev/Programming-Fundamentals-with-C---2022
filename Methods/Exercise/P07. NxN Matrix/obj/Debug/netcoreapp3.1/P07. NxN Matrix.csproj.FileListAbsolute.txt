@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\bin\Debug\netcoreapp3.1\P07. NxN Matrix.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\bin\Debug\netcoreapp3.1\P07. NxN Matrix.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\bin\Debug\netcoreapp3.1\P07. NxN Matrix.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\bin\Debug\netcoreapp3.1\P07. NxN Matrix.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\bin\Debug\netcoreapp3.1\P07. NxN Matrix.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\bin\Debug\netcoreapp3.1\P07. NxN Matrix.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P07. NxN Matrix\obj\Debug\netcoreapp3.1\P07. NxN Matrix.genruntimeconfig.cache
