@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\bin\Debug\netcoreapp3.1\P02. Vowels Count.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\bin\Debug\netcoreapp3.1\P02. Vowels Count.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\bin\Debug\netcoreapp3.1\P02. Vowels Count.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\bin\Debug\netcoreapp3.1\P02. Vowels Count.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\bin\Debug\netcoreapp3.1\P02. Vowels Count.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\bin\Debug\netcoreapp3.1\P02. Vowels Count.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P02. Vowels Count\obj\Debug\netcoreapp3.1\P02. Vowels Count.genruntimeconfig.cache

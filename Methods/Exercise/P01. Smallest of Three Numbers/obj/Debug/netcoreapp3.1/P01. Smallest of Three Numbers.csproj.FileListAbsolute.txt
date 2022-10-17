@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Methods\Exercise\P01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\P01. Smallest of Three Numbers.genruntimeconfig.cache
