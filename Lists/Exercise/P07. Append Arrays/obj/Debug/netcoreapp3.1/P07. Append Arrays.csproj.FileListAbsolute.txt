@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\bin\Debug\netcoreapp3.1\P07. Append Arrays.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\bin\Debug\netcoreapp3.1\P07. Append Arrays.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\bin\Debug\netcoreapp3.1\P07. Append Arrays.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\bin\Debug\netcoreapp3.1\P07. Append Arrays.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\bin\Debug\netcoreapp3.1\P07. Append Arrays.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\bin\Debug\netcoreapp3.1\P07. Append Arrays.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Lists\Exercise\P07. Append Arrays\obj\Debug\netcoreapp3.1\P07. Append Arrays.genruntimeconfig.cache
