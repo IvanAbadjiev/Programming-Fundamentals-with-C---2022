@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\bin\Debug\netcoreapp3.1\P04. Shopping List.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\bin\Debug\netcoreapp3.1\P04. Shopping List.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\bin\Debug\netcoreapp3.1\P04. Shopping List.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\bin\Debug\netcoreapp3.1\P04. Shopping List.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\bin\Debug\netcoreapp3.1\P04. Shopping List.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\bin\Debug\netcoreapp3.1\P04. Shopping List.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P04. Shopping List\obj\Debug\netcoreapp3.1\P04. Shopping List.genruntimeconfig.cache
