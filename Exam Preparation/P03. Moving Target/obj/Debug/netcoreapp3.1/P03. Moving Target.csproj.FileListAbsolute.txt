@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\bin\Debug\netcoreapp3.1\P03. Moving Target.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\bin\Debug\netcoreapp3.1\P03. Moving Target.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\bin\Debug\netcoreapp3.1\P03. Moving Target.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\bin\Debug\netcoreapp3.1\P03. Moving Target.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\bin\Debug\netcoreapp3.1\P03. Moving Target.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\bin\Debug\netcoreapp3.1\P03. Moving Target.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P03. Heart Delivery\obj\Debug\netcoreapp3.1\P03. Moving Target.genruntimeconfig.cache
