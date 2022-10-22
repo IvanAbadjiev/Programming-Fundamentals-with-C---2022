@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\bin\Debug\netcoreapp3.1\P02. The Lift.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\bin\Debug\netcoreapp3.1\P02. The Lift.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\bin\Debug\netcoreapp3.1\P02. The Lift.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\bin\Debug\netcoreapp3.1\P02. The Lift.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\bin\Debug\netcoreapp3.1\P02. The Lift.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\bin\Debug\netcoreapp3.1\P02. The Lift.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Exam Preparation\P02. Shopping List\obj\Debug\netcoreapp3.1\P02. The Lift.genruntimeconfig.cache
