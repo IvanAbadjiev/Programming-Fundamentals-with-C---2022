@@ -17,3 +17,5 @@ SKILLS YOU WILL ACQUIRE:
 --> Basic HTML and CSS skills
 
 --> Working with linear data structures
+![image](https://user-images.githubusercontent.com/107812744/197323523-56df0d37-ad16-4969-a907-cfc8288e7b0a.png)
+
