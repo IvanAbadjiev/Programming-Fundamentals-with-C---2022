@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\bin\Debug\netcoreapp3.1\P03. Songs.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\bin\Debug\netcoreapp3.1\P03. Songs.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\bin\Debug\netcoreapp3.1\P03. Songs.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\bin\Debug\netcoreapp3.1\P03. Songs.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\bin\Debug\netcoreapp3.1\P03. Songs.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\bin\Debug\netcoreapp3.1\P03. Songs.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Lab\P03. Songs\obj\Debug\netcoreapp3.1\P03. Songs.genruntimeconfig.cache
