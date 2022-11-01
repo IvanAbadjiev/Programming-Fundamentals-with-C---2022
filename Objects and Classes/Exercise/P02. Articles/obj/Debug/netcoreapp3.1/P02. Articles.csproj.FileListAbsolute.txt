@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\bin\Debug\netcoreapp3.1\P02. Articles.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\bin\Debug\netcoreapp3.1\P02. Articles.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\bin\Debug\netcoreapp3.1\P02. Articles.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\bin\Debug\netcoreapp3.1\P02. Articles.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\bin\Debug\netcoreapp3.1\P02. Articles.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\bin\Debug\netcoreapp3.1\P02. Articles.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P02. Articles\obj\Debug\netcoreapp3.1\P02. Articles.genruntimeconfig.cache
