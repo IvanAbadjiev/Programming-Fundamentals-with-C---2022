@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\bin\Debug\netcoreapp3.1\P07. Order by Age.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\bin\Debug\netcoreapp3.1\P07. Order by Age.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\bin\Debug\netcoreapp3.1\P07. Order by Age.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\bin\Debug\netcoreapp3.1\P07. Order by Age.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\bin\Debug\netcoreapp3.1\P07. Order by Age.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\bin\Debug\netcoreapp3.1\P07. Order by Age.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Objects and Classes\Exercise\P07. Order by Age\obj\Debug\netcoreapp3.1\P07. Order by Age.genruntimeconfig.cache
