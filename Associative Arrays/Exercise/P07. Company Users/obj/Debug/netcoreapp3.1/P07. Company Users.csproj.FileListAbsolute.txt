@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\bin\Debug\netcoreapp3.1\P07. Company Users.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\bin\Debug\netcoreapp3.1\P07. Company Users.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\bin\Debug\netcoreapp3.1\P07. Company Users.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\bin\Debug\netcoreapp3.1\P07. Company Users.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\bin\Debug\netcoreapp3.1\P07. Company Users.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\bin\Debug\netcoreapp3.1\P07. Company Users.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P07. Company Users\obj\Debug\netcoreapp3.1\P07. Company Users.genruntimeconfig.cache
