@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\bin\Debug\netcoreapp3.1\P05. Courses.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\bin\Debug\netcoreapp3.1\P05. Courses.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\bin\Debug\netcoreapp3.1\P05. Courses.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\bin\Debug\netcoreapp3.1\P05. Courses.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\bin\Debug\netcoreapp3.1\P05. Courses.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\bin\Debug\netcoreapp3.1\P05. Courses.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Exercise\P05. Courses\obj\Debug\netcoreapp3.1\P05. Courses.genruntimeconfig.cache
