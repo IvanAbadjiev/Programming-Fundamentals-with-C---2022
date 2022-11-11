@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\bin\Debug\netcoreapp3.1\P03. Substring.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\bin\Debug\netcoreapp3.1\P03. Substring.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\bin\Debug\netcoreapp3.1\P03. Substring.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\bin\Debug\netcoreapp3.1\P03. Substring.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\bin\Debug\netcoreapp3.1\P03. Substring.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\bin\Debug\netcoreapp3.1\P03. Substring.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Associative Arrays\Lab\P03. Substring\obj\Debug\netcoreapp3.1\P03. Substring.genruntimeconfig.cache
