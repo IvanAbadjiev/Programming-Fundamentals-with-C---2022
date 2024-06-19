@@ -1,21 +1,47 @@
-# Programming Fundamentals With C# September 2022
+# Programming Fundamentals with C#
 
-FOR THE COURSE:
+This repository contains exercises, projects, and resources from the "Programming Fundamentals with C#" 
 
-With "Programming Fundamentals", students begin to study SoftUni's in-house program for the comprehensive training of software engineers. The course examines fundamental concepts in programming, which are the basis for effective and quality training in the professional modules. Learners build on the knowledge gained in the Programming Basics course and begin to use more complex programming concepts and structures such as: arrays, sheets, objects and classes. Additional technologies needed by every software developer are studied, such as HTML and CSS, HTTP, bitwise operations, and more. The basics of web development are covered, as well as one of the most common technologies and tools, with which the course successfully builds an idea among students about the upcoming professional modules and the knowledge they will gain from them to become successful software developers.   
+## Course Overview
+The "Programming Fundamentals" course builds on basic programming skills and introduces more advanced concepts and structures. It covers essential technologies and tools for software developers, laying a strong foundation for future professional modules.
 
-SKILLS YOU WILL ACQUIRE:
+## Skills Acquired
 
---> Handling the standard functionality of the programming language
+- Basic HTML and CSS skills
+- Proficiency in standard programming functionalities
+- Problem analysis and reduction to executable steps
+- Working with linear data structures
+- Understanding the interrelationship between various IT concepts
 
---> Basics of web development
+## Topics Covered
+- Basic Syntax, Conditional Statements, and Loops
+- Git and GitHub
+- Data Types and Variables
+- HTTP Basics
+- Arrays/Lists Basics
+- HTML & CSS Basics
+- Methods/Functions
+- Software Development Concepts
+- Advanced Lists/Arrays
+- Objects and Classes
+- Associative Arrays
+- Bitwise Operations
+- Text Processing
+- Problem Solving
+- Regular Expressions
+- Database Basics
+- QA Introduction
+- Basic Web Project
 
---> Understanding the interrelationship between different IT concepts
+## Projects and Exercises
+This repository includes the following:
+1. **Syntax and Loops**: Exercises on basic syntax, conditional statements, and loops.
+2. **Data Types**: Exercises on working with different data types and variables.
+3. **Arrays and Lists**: Exercises on basic and advanced array and list manipulations.
+4. **Methods and Functions**: Exercises on creating and using methods/functions.
+5. **Object-Oriented Programming**: Exercises on objects and classes.
+6. **Text Processing and Regular Expressions**: Exercises on manipulating and processing text.
+7. **Web Basics**: Exercises on basic HTML, CSS, and HTTP.
 
---> Analysis of complex problems and reduction to computer-executable steps
 
---> Basic HTML and CSS skills
-
---> Working with linear data structures
-![image](https://user-images.githubusercontent.com/107812744/197323523-56df0d37-ad16-4969-a907-cfc8288e7b0a.png)
-
+![Programming Basics - June 2022 - Certificate](https://github.com/IvanAbadjiev/ProgrammingFundamentalsWithCSharpSeptember2022/assets/107812744/9fb881f0-1eee-468d-a19e-c3a8fbf21c65)
