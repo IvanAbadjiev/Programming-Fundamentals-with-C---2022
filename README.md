@@ -44,4 +44,5 @@ This repository includes the following:
 7. **Web Basics**: Exercises on basic HTML, CSS, and HTTP.
 
 
-![Programming Basics - June 2022 - Certificate](https://github.com/IvanAbadjiev/ProgrammingFundamentalsWithCSharpSeptember2022/assets/107812744/9fb881f0-1eee-468d-a19e-c3a8fbf21c65)
+![Programming Fundamentals with C# - September 2022 - Certificate](https://github.com/IvanAbadjiev/ProgrammingFundamentalsWithCSharpSeptember2022/assets/107812744/3e4261b9-7e93-4617-9d9e-46aee431b7c4)
+
